@@ -1,0 +1,15 @@
+//This is sample comment
+void main(){
+int a,b,c;
+a=b+++10;
+char x='c';
+/* This
+is 
+a
+multiline
+comment
+*/
+if (a<b || b==20.5){
+	string v="Welcome";
+}
+}
